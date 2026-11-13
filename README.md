@@ -27,7 +27,7 @@ Raw files are not included in this repository; download them from the link above
 ## Progress
 - [x] Data loading and validation (`SQL/01_load_check.sql`)
 - [x] Data cleaning and analysis view (`SQL/02_clean.sql`)
-- [ ] SQL analysis queries
+- [x] SQL analysis queries
 - [ ] Python statistical analysis
 - [ ] Power BI dashboard
 - [ ] Findings and summary report
