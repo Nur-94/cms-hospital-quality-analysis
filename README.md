@@ -28,6 +28,6 @@ Raw files are not included in this repository; download them from the link above
 - [x] Data loading and validation (`SQL/01_load_check.sql`)
 - [x] Data cleaning and analysis view (`SQL/02_clean.sql`)
 - [x] SQL analysis queries
-- [ ] Python statistical analysis
+- [x] Python statistical analysis
 - [ ] Power BI dashboard
 - [ ] Findings and summary report
