@@ -185,5 +185,5 @@ Issues found during validation and how they were handled:
 
 ---
 
-**Author:** [Nur Vanu] · [LinkedIn](https://www.linkedin.com/in/nur-vanu-88828a194/)
+**Author:** Nur Vanu · [LinkedIn](https://www.linkedin.com/in/nur-vanu-88828a194/)
 
